@@ -48,8 +48,8 @@
 
 ## Страницы Wiki
 
-- [Функциональные требования](https://github.com/fpmi-pmvs2026/pmvs10a-project-tracker/wiki/Functional%E2%80%90Requirements) — варианты использования и текстовые сценарии
-- [Дополнительная спецификация](https://github.com/fpmi-pmvs2026/pmvs10a-project-tracker/wiki/Additional%E2%80%90Specification) — нефункциональные требования (производительность, безопасность, доступность)
+- [Функциональные требования](Functional-Requirements) — варианты использования и текстовые сценарии
+- [Дополнительная спецификация](Additional-Specification) — нефункциональные требования (производительность, безопасность, доступность)
 - [Схема базы данных](Database-Schema) — структура таблиц Room, поля, связи
 - [Структура файлов](File-Diagram) — дерево каталогов проекта
 
@@ -71,6 +71,6 @@ cd expense-tracker
 
 | Роль | Зона ответственности |
 |---|---|
-| Person 1 — Тимлид | Data layer, Room DB, Retrofit, DI (Hilt), WorkManager |
-| Person 2 | UI (Home, AddEdit), Navigation, CI/CD (GitHub Actions, Firebase Test Lab), Wiki |
-| Person 3 | Stats, Settings, Unit-тесты, UI-тесты (Espresso/Compose), GitHub Pages, README |
+| **[Сидорская Дарья](https://github.com/Dashuuka) — Тимлид** | Data layer, Room DB, Retrofit, DI (Hilt), WorkManager |
+| **[Беглецов Герман](https://github.com/kensh911)** | UI (Home, AddEdit), Navigation, CI/CD (GitHub Actions, Firebase Test Lab), Wiki |
+| **[Яхновец Владислав](https://github.com/01010101-coder)** | Stats, Settings, Unit-тесты, UI-тесты (Espresso/Compose), GitHub Pages, README |
